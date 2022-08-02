@@ -11,6 +11,7 @@ bash vscode_termux.sh
 Reopen termux
 ```
 cd vscode_termux
+bash vscode_fedora.sh
 
 ```
 
