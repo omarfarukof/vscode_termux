@@ -2,7 +2,7 @@
 dnf check-update
 dnf upgrade
 
-dnf groupinstall 'Development Tools'
+#dnf groupinstall 'Development Tools'
 
 curl -fsSL https://code-server.dev/install.sh | sh
 
